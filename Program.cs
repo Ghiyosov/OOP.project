@@ -278,6 +278,8 @@ while (true)
                 System.Console.WriteLine(item.Title);
                 System.Console.WriteLine(item.Description);
                 System.Console.WriteLine(item.CreatedAt);
+                System.Console.WriteLine("--------------------------------");
+
             }
             System.Console.WriteLine("For descending order, enter order");
             string ord = Console.ReadLine();
@@ -290,6 +292,7 @@ while (true)
                     System.Console.WriteLine(item.Title);
                     System.Console.WriteLine(item.Description);
                     System.Console.WriteLine(item.CreatedAt);
+                    System.Console.WriteLine("--------------------------------");
                 }
             }
             else continue;
@@ -302,6 +305,7 @@ while (true)
                 System.Console.WriteLine(item.Title);
                 System.Console.WriteLine(item.Description);
                 System.Console.WriteLine(item.CreatedAt);
+                System.Console.WriteLine("--------------------------------");
             }
             System.Console.WriteLine("For descending order, enter order");
             string ord = Console.ReadLine();
@@ -314,6 +318,7 @@ while (true)
                     System.Console.WriteLine(item.Title);
                     System.Console.WriteLine(item.Description);
                     System.Console.WriteLine(item.CreatedAt);
+                    System.Console.WriteLine("--------------------------------");
                 }
             }
             else continue;
@@ -328,6 +333,7 @@ while (true)
                 System.Console.WriteLine(item.Title);
                 System.Console.WriteLine(item.Description);
                 System.Console.WriteLine(item.CreatedAt);
+                System.Console.WriteLine("--------------------------------");
             }
             System.Console.WriteLine("For descending order, enter order");
             string ord = Console.ReadLine();
@@ -340,6 +346,7 @@ while (true)
                     System.Console.WriteLine(item.Title);
                     System.Console.WriteLine(item.Description);
                     System.Console.WriteLine(item.CreatedAt);
+                    System.Console.WriteLine("--------------------------------");
                 }
             }
             else continue;
